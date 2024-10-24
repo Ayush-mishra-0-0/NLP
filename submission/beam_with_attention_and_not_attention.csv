@@ -1,0 +1,3 @@
+Configuration,BLEU Score,Loss,Training Time (s)
+"Attention, beam search, with TF",0.0,4.322233498382569,44.873862504959106
+"No attention, beam search, without TF",0.0,4.508475862503052,31.378509283065796

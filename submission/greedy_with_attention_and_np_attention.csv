@@ -1,0 +1,3 @@
+Configuration,BLEU Score,Loss,Training Time (s)
+"No attention, greedy, with TF",0.21840032961888656,5.997968382136837,31.472012281417847
+"Attention, greedy, without TF",0.800537314573282,6.0101071163347575,31.806315660476685

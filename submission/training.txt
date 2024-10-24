@@ -1,0 +1,9 @@
+(gpu) C:\Users\Ayush\OneDrive\Documents\codeforces>python main.py
+2024-10-24 13:15:15,953 - INFO - Loading dataset from data1.csv
+2024-10-24 13:15:16,030 - INFO - Vocabulary sizes - English: 6017, Spanish: 11251
+Starting training with config: Attention, beam search, with TF
+Evaluating: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 625/625 [01:01<00:00, 10.15it/s] 
+Completed training with config: Attention, beam search, with TF
+Starting training with config: No attention, beam search, without TF
+Evaluating: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 625/625 [00:56<00:00, 11.05it/s] 
+Completed training with config: No attention, beam search, without TF
